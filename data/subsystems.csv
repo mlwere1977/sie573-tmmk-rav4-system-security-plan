@@ -1,0 +1,12 @@
+subsystem_id,name,purdue_level,owner_title,confidentiality,integrity,availability,in_boundary
+RAV4-PL-EIT,Enterprise IT interface,Level 4,TMNA Corporate IT (common control provider),inherited,inherited,inherited,no
+RAV4-PL-DMZ,OT DMZ,Level 3.5,TMMK OT Network Security Manager,Moderate,Moderate,Moderate,yes
+RAV4-PL-OPS,Ops VLAN (HMIs / supervisory),Level 2,TMMK Production Engineering Manager,Low,Moderate,Moderate,yes
+RAV4-PL-CTL,Control VLAN (PLCs),Level 1,TMMK Production Engineering Manager,Low,Moderate,Moderate,yes
+RAV4-PL-FLR,Floor VLAN (field devices),Level 0,TMMK Production Engineering Manager,Low,Moderate,Moderate,yes
+RAV4-PL-AGV,AGV system,Level 2-3,TMMK Supply Chain Manager,Low,Moderate,Moderate,yes
+RAV4-PL-ENV,Environmental SCADA (vtSCADA),Level 2,TMMK Production Engineering Manager,Low,Low,Moderate,yes
+RAV4-PL-DCS,Distributed Control System,Levels 0-2,TMMK Production Engineering Manager,Low,Moderate,Moderate,yes
+RAV4-PL-SWD,Software delivery and R&D,R&D air gap to Level 3.5,R&D Software Engineering Manager,Moderate,Moderate,Low,yes
+RAV4-PL-HSC,Hardware supply chain,Inventory manager in OT DMZ,TMMK Supply Chain Manager,Low,Moderate,Moderate,yes
+RAV4-PL-FQA,Final QA and vehicle database,End of line (Level 3),TMMK Quality Assurance Manager,Moderate,Moderate,Low,yes

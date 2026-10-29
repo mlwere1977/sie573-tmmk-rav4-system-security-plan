@@ -94,9 +94,6 @@ python scripts/control_stats.py --write    # -> docs/control-statistics.md
 
 | Member | Charter role (Scrum) | RMF project role |
 |---|---|---|
-| Bhanuprakash Kandimalla | Scrum Master | Quality Assurance & Calibration Specialist |
-| Samuel Yoon | Product Owner | OT Network & Systems Engineer |
-| Desiree O'Cleireachain | Developer: formatting and consistency review | Legal & Standards Consultant |
 | **Mukwaya Lwere** ([@mlwere1977](https://github.com/mlwere1977)) | Developer: final proofread before submission | **Systems Security Engineer**: led the RMF lifecycle and SSP authorship, selected the baseline 800-53 controls |
 
 ## Milestones
